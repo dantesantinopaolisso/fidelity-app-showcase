@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Fidelity App</title><desc id="desc">Una cuenta. Cada comercio, sus beneficios. Aplicación móvil en desarrollo.</desc>
+  <rect width="1200" height="440" rx="32" fill="#101114"/>
+  <path d="M0 355H1200" stroke="#2A2D35"/>
+  <g transform="translate(64 62)"><rect width="74" height="74" rx="18" fill="#2563EB"/><g fill="#FFF"><rect x="22" y="19" width="7" height="36" rx="3.5"/><rect x="22" y="19" width="32" height="7" rx="3.5"/><rect x="22" y="34" width="25" height="7" rx="3.5"/></g><circle cx="51" cy="52" r="4" fill="#C7D8FF"/></g>
+  <text x="159" y="111" fill="#FFF" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="700" letter-spacing="-1">Fidelity App</text>
+  <text x="64" y="216" fill="#FFF" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5">Una cuenta.</text>
+  <text x="64" y="283" fill="#B7CCFF" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5">Cada comercio, sus beneficios.</text>
+  <text x="64" y="403" fill="#BDC2CC" font-family="Arial,Helvetica,sans-serif" font-size="20">Diseñada para lo cotidiano.</text>
+  <text x="1136" y="403" text-anchor="end" fill="#BDC2CC" font-family="Arial,Helvetica,sans-serif" font-size="18">PRODUCTO EN DESARROLLO</text>
+</svg>
