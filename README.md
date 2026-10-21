@@ -47,7 +47,9 @@ Se estudiaron guías de Android y Apple, investigación de usabilidad y producto
 
 ## Estado del proyecto
 
-Hay una demo funcional y un entorno de desarrollo conectado. La continuación incorpora favoritos completos, catálogos paginados, estados de fotos y un editor administrativo de reglas; se comprueban con pruebas locales, servidor y emulador Android. Las capturas muestran la demo; no son un acceso al entorno conectado. La preparación para iOS está incluida en el proyecto; la compilación y prueba física en iPhone siguen pendientes. No se presenta como una aplicación ya publicada en tiendas ni como un piloto abierto a clientes reales.
+Hay una demo funcional y un entorno de desarrollo conectado. Favoritos completos, catálogos paginados y un editor administrativo de reglas se comprueban con pruebas locales, servidor y emulador Android. La continuación **0.6.3** agrega recuperación de fotos pendientes y diagnóstico técnico local: se consulta el resultado antes de reenviar, con estados claros y sin continuar automáticamente el trabajo de otra cuenta. No promete transferencias en segundo plano.
+
+Las capturas de arriba siguen mostrando la **demo0.6.2** y no dan acceso al entorno conectado. La preparación para iOS está incluida en el proyecto; la compilación y prueba física en iPhone siguen pendientes. Tampoco se atribuyen resultados de emulador a teléfonos físicos. No se presenta como una aplicación ya publicada en tiendas ni como un piloto abierto a clientes reales.
 
 ## Sobre este repositorio
 
