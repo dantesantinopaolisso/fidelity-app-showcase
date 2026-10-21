@@ -29,4 +29,4 @@ La investigación incluye discusiones de profesionales, tratadas como opiniones 
 
 ## Lo que se sigue comprobando
 
-La fluidez final necesita medición en teléfonos físicos y builds apropiados. El emulador permite encontrar errores y revisar pantallas; no demuestra por sí solo rendimiento en todos los dispositivos. iPhone y tecnologías de asistencia requieren sus ensayos específicos.
+Se obtuvieron muestras de cuadros en modo profile en un Samsung con Android 12. Son un diagnóstico inicial, con picos registrados; no garantizan una tasa de FPS ni permiten atribuir mejoras sin una comparación válida. Las capturas publicadas muestran ese ensayo físico. Texto ampliado y movimiento reducido se comprobaron con la plataforma de pruebas; iPhone y la evaluación auditiva con tecnologías de asistencia requieren sus ensayos específicos.

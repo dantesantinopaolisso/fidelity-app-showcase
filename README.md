@@ -12,7 +12,7 @@ El cliente tiene una sola cuenta y un número de socio fijo. El personal autoriz
 
 ## Un vistazo a la experiencia
 
-Capturas de **Fidelity App 0.6.2+11 · demo Android · 21/10/2026**, ejecutada en emulador. Comercios, personas y promociones ficticios; piloto cerrado. Podés abrir cada imagen para verla completa.
+Capturas de **Fidelity App 0.6.3+12 · demo Android · 21/10/2026**, tomadas con el mecanismo nativo de pruebas en un **Samsung SM-G975F con Android 12**, en modo profile. Muestran los widgets reales con comercios, personas y promociones ficticios; piloto cerrado. Podés abrir cada imagen para verla completa.
 
 <p align="center">
   <a href="assets/home-light.png"><img src="assets/home-light.png" alt="Descubrir: inicio de la demo con promociones y búsqueda de comercios" width="280"></a>
@@ -49,7 +49,9 @@ Se estudiaron guías de Android y Apple, investigación de usabilidad y producto
 
 Hay una demo funcional y un entorno de desarrollo conectado. Favoritos completos, catálogos paginados y un editor administrativo de reglas se comprueban con pruebas locales, servidor y emulador Android. La continuación **0.6.3** agrega recuperación de fotos pendientes y diagnóstico técnico local: se consulta el resultado antes de reenviar, con estados claros y sin continuar automáticamente el trabajo de otra cuenta. No promete transferencias en segundo plano.
 
-Las capturas de arriba siguen mostrando la **demo0.6.2** y no dan acceso al entorno conectado. La preparación para iOS está incluida en el proyecto; la compilación y prueba física en iPhone siguen pendientes. Tampoco se atribuyen resultados de emulador a teléfonos físicos. No se presenta como una aplicación ya publicada en tiendas ni como un piloto abierto a clientes reales.
+En ese teléfono también se comprobaron texto al 200 % y movimiento reducido mediante valores de la plataforma de pruebas, sin cambiar sus preferencias globales. Las muestras de cuadros son diagnósticas: todavía no permiten prometer una tasa de FPS o una mejora frente a otra versión.
+
+Las capturas de arriba pertenecen a la demo y no dan acceso al entorno conectado. La preparación para iOS está incluida en el proyecto; la compilación y prueba física en iPhone siguen pendientes. La evaluación auditiva de accesibilidad también continúa pendiente. No se presenta como una aplicación ya publicada en tiendas ni como un piloto abierto a clientes reales.
 
 ## Sobre este repositorio
 
