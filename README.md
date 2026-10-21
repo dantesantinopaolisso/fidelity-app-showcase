@@ -12,7 +12,7 @@ El cliente tiene una sola cuenta y un número de socio fijo. El personal autoriz
 
 ## Un vistazo a la experiencia
 
-Estas son capturas de la aplicación ejecutada en Android, con comercios y datos ficticios. Podés abrir cada imagen para verla completa.
+Capturas de **Fidelity App 0.6.2+11 · demo Android · 21/10/2026**, ejecutada en emulador. Comercios, personas y promociones ficticios; piloto cerrado. Podés abrir cada imagen para verla completa.
 
 <p align="center">
   <a href="assets/home-light.png"><img src="assets/home-light.png" alt="Descubrir: inicio de la demo con promociones y búsqueda de comercios" width="280"></a>
@@ -22,11 +22,11 @@ Estas son capturas de la aplicación ejecutada en Android, con comercios y datos
 **Descubrir y elegir.** Búsqueda, filtros y favoritos para encontrar cada negocio. El saldo y los beneficios siempre pertenecen al comercio correspondiente.
 
 <p align="center">
-  <a href="assets/identity-light.png"><img src="assets/identity-light.png" alt="Identificarse: número de socio ficticio y QR de demostración" width="280"></a>
+  <a href="assets/cashier-light.png"><img src="assets/cashier-light.png" alt="Operar: caja de demostración con identificación del socio y compra" width="280"></a>
   <a href="assets/home-dark.png"><img src="assets/home-dark.png" alt="A tu manera: inicio de Fidelity App en modo oscuro" width="280"></a>
 </p>
 
-**Identificarse y seguir.** Número fijo y QR temporal con propósitos diferentes. Modo claro, oscuro y respeto por la reducción de movimiento.
+**Operar y seguir.** La caja distingue identificación, compra y entrega de beneficios. Modo claro, oscuro y respeto por la reducción de movimiento.
 
 ## Del cliente al comercio
 
@@ -47,7 +47,7 @@ Se estudiaron guías de Android y Apple, investigación de usabilidad y producto
 
 ## Estado del proyecto
 
-Hay una demo funcional y un entorno de desarrollo conectado, verificados con pruebas locales, de servidor y emulador Android. La preparación para iOS está incluida en el proyecto; la compilación y prueba física en iPhone siguen pendientes. No se presenta como una aplicación ya publicada en tiendas ni como un piloto abierto a clientes reales.
+Hay una demo funcional y un entorno de desarrollo conectado. La continuación incorpora favoritos completos, catálogos paginados, estados de fotos y un editor administrativo de reglas; se comprueban con pruebas locales, servidor y emulador Android. Las capturas muestran la demo; no son un acceso al entorno conectado. La preparación para iOS está incluida en el proyecto; la compilación y prueba física en iPhone siguen pendientes. No se presenta como una aplicación ya publicada en tiendas ni como un piloto abierto a clientes reales.
 
 ## Sobre este repositorio
 
